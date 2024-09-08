@@ -8,11 +8,15 @@ picked-up this pseudo because i absorb a lot of informations and i'm curious and
 
 ~ 17 Years working in the industry
 
+~ 6 Years as Admin Linux & Network
+
+~ 11 Years as a Developer (Software | Web)
+
 ### Infrastructure
 
 ### BackEnd 🎼
-
+[![](https://skillicons.dev/icons?i=python,go,rust,js,ts)]()
 ### FrontEnd 🎼
-
+<!-- 
 ### Music Production 🎼
-[![Ableton ](https://skillicons.dev/icons?i=ableton)]()
+[![](https://skillicons.dev/icons?i=ableton)]() -->
