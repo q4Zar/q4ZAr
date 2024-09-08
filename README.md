@@ -17,6 +17,7 @@ picked-up this pseudo because i absorb a lot of informations and i'm curious and
 ### BackEnd 🎼
 #### HighLVL
 [![](https://skillicons.dev/icons?i=python,fastapi,django,flask)]()
+
 [![](https://skillicons.dev/icons?i=js,ts,koa,strapi)]()
 #### LowLVL
 [![](https://skillicons.dev/icons?i=go,rusta)]()
