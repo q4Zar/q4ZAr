@@ -1,25 +1,18 @@
-## Hi there 👋
+## Hi its Damien aka [q4ZAr](https://en.wikipedia.org/wiki/Quasar) 👋
 
-<!--
-**q4Zar/q4ZAr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+picked-up this pseudo because i absorb a lot of informations and i'm curious and experiecing with various topics that i found interesting with a certain ambition for it to be used in the future.
 
-Here are some ideas to get you started:
+**Some Statistics**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+~ 25 Years of Passion 💗 about Technology
 
-## Infrastructure
+~ 17 Years working in the industry
 
-## BackEnd 🎼
+### Infrastructure
 
-## FrontEnd 🎼
+### BackEnd 🎼
 
-## Music Production 🎼
+### FrontEnd 🎼
+
+### Music Production 🎼
 [![Ableton ](https://skillicons.dev/icons?i=ableton)]()
