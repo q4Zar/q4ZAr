@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Infrastructure
+
+## BackEnd 🎼
+
+## FrontEnd 🎼
+
+## Music Production 🎼
+[![Ableton ](https://skillicons.dev/icons?i=ableton)]()
