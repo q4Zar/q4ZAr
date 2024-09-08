@@ -15,7 +15,11 @@ picked-up this pseudo because i absorb a lot of informations and i'm curious and
 ### Infrastructure
 
 ### BackEnd 🎼
-[![](https://skillicons.dev/icons?i=python,go,rust,js,ts)]()
+#### HighLVL
+[![](https://skillicons.dev/icons?i=python,fastapi,django,flask)]()
+[![](https://skillicons.dev/icons?i=js,ts,koa,strapi)]()
+#### LowLVL
+[![](https://skillicons.dev/icons?i=go,rusta)]()
 ### FrontEnd 🎼
 <!-- 
 ### Music Production 🎼
