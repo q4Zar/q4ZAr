@@ -11,17 +11,3 @@ picked-up this pseudo because i absorb a lot of informations and i'm curious and
 ~ 6 Years as Admin Linux & Network
 
 ~ 11 Years as a Developer (Software | Web)
-
-### Infrastructure
-
-### BackEnd 🎼
-#### HighLVL
-[![](https://skillicons.dev/icons?i=python,fastapi,django,flask)]()
-
-[![](https://skillicons.dev/icons?i=js,ts,koa,strapi)]()
-#### LowLVL
-[![](https://skillicons.dev/icons?i=go,rusta)]()
-### FrontEnd 🎼
-<!-- 
-### Music Production 🎼
-[![](https://skillicons.dev/icons?i=ableton)]() -->
