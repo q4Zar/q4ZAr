@@ -11,3 +11,7 @@ picked-up this pseudo because i absorb a lot of informations and i'm curious and
 ~ 6 Years as Admin Linux & Network
 
 ~ 11 Years as a Developer (Software | Web)
+
+- Now running my companies with my as the only employee and Claude as my army of developers so far i never went that far in building projects.
+
+This is a new golden era.
